@@ -1,0 +1,16 @@
+
+.json-container {
+    padding: 30px;
+}
+
+.heading {
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.string-container {
+    background-color: #f3f3f3;
+    padding: 20px;
+    border-radius: 20px;
+}

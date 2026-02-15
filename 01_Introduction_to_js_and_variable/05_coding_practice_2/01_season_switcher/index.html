@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+
+<body>
+    <div>
+        <!-- Small device image -->
+        <img id="seasonSmallImage" src="https://d2clawv67efefq.cloudfront.net/ccbp-dynamic-webapps/seasons-switcher-four-seasons-xs-img.png" class="season-image d-inline d-md-none" />
+
+        <!-- Medium & above device image -->
+        <img id="seasonMediumImage" src="https://d2clawv67efefq.cloudfront.net/ccbp-dynamic-webapps/seasons-switcher-four-seasons-md-img.png" class="season-image d-none d-md-inline" />
+
+        <div class="d-flex flex-row justify-content-center mt-4">
+            <button id="springBtn" class="button spring-button" onclick="spring()">Spring</button>
+            <button id="summerBtn" class="button summer-button" onclick="summer()">Summer</button>
+            <button id="autumnBtn" class="button autumn-button" onclick="autumn()">Autumn</button>
+            <button id="winterBtn" class="button winter-button" onclick="winter()">Winter</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

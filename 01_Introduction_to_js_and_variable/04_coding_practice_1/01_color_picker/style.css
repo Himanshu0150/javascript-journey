@@ -1,0 +1,73 @@
+
+.heading {
+    margin-top: 30px;
+    text-align: center;
+    margin-bottom: 5vh;
+    font-weight: bold;
+    font-size: 60px;
+    font-family: Open Sans;
+}
+
+#button1 {
+    background-color: #e0e0e0;
+    height: 18vh;
+    width: 18vh;
+    border-radius: 20px;
+    border-width: 5px;
+    font-family: Open Sans;
+    font-weight: bold;
+}
+
+#button2 {
+    background-color: #6fcf97;
+    height: 18vh;
+    width: 18vh;
+    border-radius: 20px;
+    border-width: 5px;
+    font-family: Open Sans;
+    font-weight: bold;
+}
+
+#button3 {
+    background-color: #56ccf2;
+    height: 18vh;
+    width: 18vh;
+    border-radius: 20px;
+    border-width: 5px;
+    font-family: Open Sans;
+    font-weight: bold;
+}
+
+#button4 {
+    background-color: #bb6bd9;
+    height: 18vh;
+    width: 18vh;
+    border-radius: 20px;
+    border-width: 5px;
+    font-family: Open Sans;
+    font-weight: bold;
+}
+
+.backgroundColorcode {
+    background-color: black;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+    font-family: Open Sans;
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.info {
+    font-size: 30px;
+    font-family: Open Sans;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#selectedColorHexCode {
+    color: #49a6e9;
+}
